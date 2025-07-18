@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-  <div className="bg-green-500">hey</div>
+  <div className="bg-blue-400">hey</div>
   )
 }
 
